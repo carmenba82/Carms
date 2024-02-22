@@ -1,48 +1,48 @@
 RMMSoftware,Vendor URL
-Action1,https://action1.com/
-AmmyAdmin,https://ammyadmin.com/
-AnyDesk,https://anydesk.com/
-Atera,https://atera.com/
-Chrome Remote Desktop,https://remotedesktop.google.com/
-ConnectWise (ScreenConnect),https://screenconnect.connectwise.com/
-Dameware,https://dameware.com/
-DoMotz,https://domotz.com/
-DWService,http://dwservice.com/
-Intelliadmin,https://Intelliadmin.com/
-Itarian Endpoint Manager,https://itarian.com/
-Level.io,https://Level.io/
-MeshCentral,https://meshcentral.com/
-mRemoteNG,https://mremoteng.org/
-N-Able,https://www.n-able.com/
-Ngrok,https://ngrok.com/
-PDQ Deploy,https://www.pdq.com/
-Pulseway,https://www.pulseway.com/
-RealVNC,https://www.realvnc.com/en/
-Remote Utilities,https://www.remoteutilities.com/
-Rport,https://kb.rport.io/
-RuDesktop,https://rudesktop.ru
-RustDesk,https://rustdesk.com/
-Splashtop,https://www.splashtop.com/
-Sorillus,https://sorillus.com/
-SupRemo,https://www.supremocontrol.com/
-Syncro,https://syncromsp.com/
-Tactical RMM,https://tacticalrmm.com/
-TeamViewer,www.teamviewer.com/en/
-TightVNC,https://www.tightvnc.com/
-ToDesk,https://www.todesk.com/
-Tmate,https://tmate.io/
-TrendMicro Basecamp,https://success.trendmicro.com/
-UltraVNC,https://uvnc.com/
-ZeroTier,https://www.zerotier.com/
-GoTo,https://www.goto.com/
-LogMeIn,https://www.logmein.com/
-SimpleHelp,https://simple-help.com/
-NetSupport Manager,https://www.netsupportmanager.com/
-Zoho Assist,https://www.zoho.com/assist/unattended-remote-access.html
-AnyViewer,https://www.anyviewer.com/
-NinjaOne,https://www.ninjaone.com/
-GoTo Resolve,https://gotoresolve.com/
-GoToMyPC,https://get.gotomypc.com/
+action1,https://action1.com/
+ammyadmin,https://ammyadmin.com/
+anydesk,https://anydesk.com/
+atera,https://atera.com/
+chrome remote desktop,https://remotedesktop.google.com/
+connectwise (screenconnect),https://screenconnect.connectwise.com/
+dameware,https://dameware.com/
+domotz,https://domotz.com/
+dwservice,http://dwservice.com/
+intelliadmin,https://Intelliadmin.com/
+itarian endpoint manager,https://itarian.com/
+level.io,https://Level.io/
+meshcentral,https://meshcentral.com/
+mremoteng,https://mremoteng.org/
+n-able,https://www.n-able.com/
+ngrok,https://ngrok.com/
+pdq deploy,https://www.pdq.com/
+pulseway,https://www.pulseway.com/
+realvnc,https://www.realvnc.com/en/
+remote utilities,https://www.remoteutilities.com/
+rport,https://kb.rport.io/
+rudesktop,https://rudesktop.ru
+rustdesk,https://rustdesk.com/
+splashtop,https://www.splashtop.com/
+sorillus,https://sorillus.com/
+supremo,https://www.supremocontrol.com/
+syncro,https://syncromsp.com/
+tactical rmm,https://tacticalrmm.com/
+teamviewer,www.teamviewer.com/en/
+tightvnc,https://www.tightvnc.com/
+todesk,https://www.todesk.com/
+tmate,https://tmate.io/
+trendmicro basecamp,https://success.trendmicro.com/
+ultravnc,https://uvnc.com/
+zerotier,https://www.zerotier.com/
+goto,https://www.goto.com/
+logmein,https://www.logmein.com/
+simplehelp,https://simple-help.com/
+netsupport manager,https://www.netsupportmanager.com/
+zoho assist,https://www.zoho.com/assist/unattended-remote-access.html
+anyviewer,https://www.anyviewer.com/
+ninjaone,https://www.ninjaone.com/
+goto resolve,https://gotoresolve.com/
+gotomypc,https://get.gotomypc.com/
 join.me,https://join.me/
 gotomypc,https://get.gotomypc.com/,https://get.gotomypc.com/
 netsupport,https://www.netsupportsoftware.com/,https://www.netsupportsoftware.com/
